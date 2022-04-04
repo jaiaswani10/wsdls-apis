@@ -1,6 +1,6 @@
 # wsdls-apis
 
-commands to genrate APIs from WSDLs
+Commands to genrate APIs from WSDLs (v54.0)
 
 java -classpath 
   C:\Users\jaswani\wsdls\jars\force-wsc-54.0.0.jar;
