@@ -12,5 +12,5 @@ java -classpath
       C:\Users\jaswani\wsdls\jars\enterprise_jai10_wsdl.xml 
       enterprise_sfwsdl.jar
 
-Add rrquired JARs into Project (include in IDE to use them into development).
+Add required JARs into Project (include in IDE to use them into development).
 
